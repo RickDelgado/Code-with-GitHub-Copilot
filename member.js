@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   return {
     skill: 'Member',
     level: 1,
